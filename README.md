@@ -5,3 +5,4 @@
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Postman-E8A38A?style=for-the-badge&logo=postman&logoColor=ff4500)
+![Header](https://img.shields.io/badge/-DevTools-E8A38A?style=for-the-badge&logo=googlechrome&logoColor=2674A2)

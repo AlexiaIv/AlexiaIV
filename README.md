@@ -23,5 +23,5 @@
   ## Follow me
 [![VK](https://img.shields.io/badge/-VKONTAKTE-4682B4?style=for-the-badge&logo=VK)](https://vk.com/alexiaiv)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/alexiaiv)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff1493?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alexia.iv/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFE4E1?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alexia.iv/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-4169E1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/alexiaiv/)
